@@ -1,4 +1,4 @@
-#Hi 👋 My name is Torver Orhemba
+Hi 👋 My name is Torver Orhemba
 ===============================
 
 Cyber Security Analyst

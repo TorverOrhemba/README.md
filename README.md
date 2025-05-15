@@ -15,7 +15,7 @@ Cybersecurity Analyst
 ### <h2> Certifications
 
 
-
+[Google Cybersecurity Professional Certificate](https://coursera.org/share/1de34059b942dadf7fd71dedd9af1085)
 
 
 ### Socials

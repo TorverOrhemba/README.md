@@ -1,4 +1,4 @@
-Hi 👋 My name is Torver
+Hi, I'm Torver
 ===============================
 
 Cybersecurity Analyst

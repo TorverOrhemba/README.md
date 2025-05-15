@@ -1,10 +1,10 @@
-Hi 👋 My name is Torver Orhemba
+Hi 👋 My name is Torver
 ===============================
 
-Cyber Security Analyst
+Cybersecurity Analyst
 ----------------------
 
-In the course of 6 years I have gained valuable exposure to relevant IT trainings, however the most impactful amongst them is Google Cyber Security Course. A six months Program which has offered me great insight into Cyber Security as a practice.
+
 
 * 🌍  I'm based in Plateau State
 * 🖥️  See my portfolio at [My profile](http://www.linkedin.com/in/torver-orhemba-b63844270)
@@ -12,12 +12,10 @@ In the course of 6 years I have gained valuable exposure to relevant IT training
 * 🧠  I'm learning Cloud Services
 * 🤝  I'm open to collaborating on Tracking detection
 
-### Skills
+### <h2> Certifications
 
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-</p>
+
 
 
 ### Socials

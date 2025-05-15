@@ -18,7 +18,7 @@ Cybersecurity Analyst
 [Google Cybersecurity Professional Certificate](https://coursera.org/share/1de34059b942dadf7fd71dedd9af1085)
 
 
-### Socials
+<h2>📺 My YouTube Videos</h2>
 
 <p align="left"> <a href="https://www.github.com/TorverOrhemba" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 

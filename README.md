@@ -9,8 +9,8 @@ Cybersecurity Analyst
 * 🌍  I'm based in Plateau State
 * 🖥️  See my portfolio at [My profile](http://www.linkedin.com/in/torver-orhemba-b63844270)
 * ✉️  You can contact me at [corhemba@gmail.com](mailto:corhemba@gmail.com)
-* 🧠  I'm learning Cloud Services
-* 🤝  I'm open to collaborating on Tracking detection
+
+
 
 ### <h2> Certifications
 
